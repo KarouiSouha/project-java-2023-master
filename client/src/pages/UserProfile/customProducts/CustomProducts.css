@@ -1,0 +1,43 @@
+/* --------------------------------------- */
+
+.sales-container {
+    box-shadow: 0px 0px 23px 0px rgb(222, 222, 222);
+    border-radius: 10px;
+
+}
+
+.link-container {
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: rgb(236, 236, 236);
+}
+
+.image-frame {
+    background-color: rgb(246, 246, 246);
+    border-radius: 0.8em;
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    margin-top: -10px;
+}
+
+.card {
+    padding: 1em;
+    box-shadow: 0px 0px 46px -4px rgb(238, 238, 238);
+    margin: 1em 1em 2em 1em;
+    border-radius: 1em;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.img {
+    height: 120px;
+    width: 240px;
+    margin:auto;
+}
